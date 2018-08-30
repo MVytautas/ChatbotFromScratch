@@ -3,7 +3,8 @@
 # Terminal commands : 
 - sudo npm install npm — global
 - npm init
-- npm install express request body-parser — save
+- npm install express 
+- npm install request body-parser
 
 # Create index.js file
 
