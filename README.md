@@ -29,12 +29,12 @@ app.get('/', function(req, res) {
 	res.send("Hi I am SERMO chatbot")
 })
 
-let token = "EAAZADeMuM9DQBAFDZBKZBvPBkHUZCDgZAe40GW7sFZBDc4Eq3LFYtiBf6OUhKy1B5tlxSPaIzddBaX1QIUK1RBXrAeZBqcLbMpwtZCm8jh91DIjMWDHZCkKSdQHx6BcWG3dSfI1hWQ58eKdv6BhVv32mKlZB2QsnS5MnjFvnAmcTlnzgZDZD"
+let token = ""
 
 // Facebook 
 
 app.get('/webhook/', function(req, res) {
-	if (req.query['hub.verify_token'] === "sermoRocks") {
+	if (req.query['hub.verify_token'] === "") {
 		res.send(req.query['hub.challenge'])
 	}
 	res.send("Wrong token!")
