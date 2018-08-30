@@ -119,3 +119,24 @@ app.listen(app.get('port'), function() {
 ```
 # Procfile https://drive.google.com/open?id=0Bw6T9cBdPcB8eHJEeXlPd1lMaEE
 
+Add this line: "web: node index.js"
+
+# Websites config:
+
+1. Create facebook page
+2. Create facebook developers app : 
+<img src="https://cdn-images-1.medium.com/max/1000/1*rXG4JIZZelPOFvzXWz72KQ.png"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px; height=42; width=42; " />
+3. Generate token and add into index.js
+<img src="https://cdn-images-1.medium.com/max/1000/1*qs5opYysQIlLYeaYqlQsaA.png"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px; height=42; width=42; " />
+4. Set-up webhook and add verify token into index.js
+<img src="https://cdn-images-1.medium.com/max/1000/1*XGnW0OFRGBJ7NvNl2cN5vg.png"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px; height=42; width=42; " />
+
+# Trigger facebook to send messages
+
+curl -X POST “https://graph.facebook.com/v2.6/me/subscribed_apps?access_token=<PAGE_ACCESS_TOKEN>"
