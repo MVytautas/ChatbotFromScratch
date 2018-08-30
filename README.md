@@ -25,9 +25,9 @@ style="float: left; margin-right: 10px; height=42; width=42; " />
 
 # Websites : 
 
-https://www.heroku.com/
-https://developers.facebook.com/
-facebook.com
+- https://www.heroku.com/
+- https://developers.facebook.com/
+- facebook.com
 
 # Chatbot workflow : 
 <img src="https://image.ibb.co/jyUT8U/image.png"
