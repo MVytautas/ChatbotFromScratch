@@ -1,5 +1,7 @@
 # ChatbotFromScratch
 
+https://docs.google.com/presentation/d/1-8b4KNhu5FTTwlWQ0dDni54kb-8JPnMG2v4Weu3hbgY/edit?usp=sharing
+
 # Introduction into chatbot
 
 You will need:
