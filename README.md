@@ -1,5 +1,17 @@
 # ChatbotFromScratch
 
+# Introduction into chatbot
+
+You will need:
+- Node.js http://nodejs.org/#download
+- Visual Studio
+- GitHub
+- HEROKU / HEROKU CLI Link
+- ngrok https://ngrok.com/download
+
+![](http://s2.glbimg.com/nBsW9iMGHEMYJtADdQ9JdWXGP3k=/695x0/s.glbimg.com/po/tt2/f/original/2015/02/11/github-logo.jpg)
+
+
 # Terminal commands : 
 - sudo npm install npm — global
 - npm init
