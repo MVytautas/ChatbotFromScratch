@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "version": "",
+  "description": "# Terminal commands :  - sudo npm install npm — global - npm init - npm install express request body-parser — save",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
+}
