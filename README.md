@@ -23,6 +23,21 @@ style="float: left; margin-right: 10px; height=42; width=42; " />
 alt="Markdown Monster icon"
 style="float: left; margin-right: 10px; height=42; width=42; " />
 
+# Websites : 
+
+https://www.heroku.com/
+https://developers.facebook.com/
+facebook.com
+
+# Chatbot workflow : 
+<img src="https://ibb.co/gPADa9"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px; height=42; width=42; " />
+
+# Webhook workflow :
+<img src="https://ibb.co/ccg88U"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px; height=42; width=42; " />
 
 # Terminal commands : 
 - sudo npm install npm — global
