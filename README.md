@@ -30,12 +30,12 @@ https://developers.facebook.com/
 facebook.com
 
 # Chatbot workflow : 
-<img src="https://ibb.co/gPADa9"
+<img src="https://image.ibb.co/jyUT8U/image.png"
 alt="Markdown Monster icon"
 style="float: left; margin-right: 10px; height=42; width=42; " />
 
 # Webhook workflow :
-<img src="https://ibb.co/ccg88U"
+<img src="https://image.ibb.co/d1Zjhp/image.png"
 alt="Markdown Monster icon"
 style="float: left; margin-right: 10px; height=42; width=42; " />
 
