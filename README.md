@@ -44,6 +44,9 @@ style="float: left; margin-right: 10px; height=42; width=42; " />
 # Terminal commands : 
 - sudo npm install npm — global
 - npm init
+
+- OR one line ( npm install express request body-parser --save )
+
 - npm install express 
 - npm install request body-parser
 
