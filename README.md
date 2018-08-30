@@ -8,7 +8,7 @@
 
 # Create index.js file
 
-`
+```
 'use strict'
 
 const express = require('express')
@@ -75,6 +75,6 @@ function sendText(sender, text) {
 app.listen(app.get('port'), function() {
 	console.log("running: port")
 }) 
-`
+```
 # Procfile https://drive.google.com/open?id=0Bw6T9cBdPcB8eHJEeXlPd1lMaEE
 
