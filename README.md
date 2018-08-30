@@ -19,9 +19,10 @@ style="float: left; margin-right: 10px; height=42; width=42; " />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0lW8JEvQaQMh8u6VyoxEKE6BfypoCxHmpJ98_DNVcF8l0Gj6"
 alt="Markdown Monster icon"
 style="float: left; margin-right: 10px; height=42; width=42; " />
-<img src="https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/53/65/6471.YqTqq.png"
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScy0PJApRyEIRNdQX1Zv8AD4qoHz60-onRnPFRsc1iVxh5klC6"
 alt="Markdown Monster icon"
 style="float: left; margin-right: 10px; height=42; width=42; " />
+
 
 # Terminal commands : 
 - sudo npm install npm — global
