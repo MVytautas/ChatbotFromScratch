@@ -1,10 +1,25 @@
 {
-  "name": "",
-  "version": "",
+  "name": "chatbotfromscratch",
   "description": "# Terminal commands :  - sudo npm install npm — global - npm init - npm install express request body-parser — save",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "request": "^2.88.0"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MVytautas/ChatbotFromScratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MVytautas/ChatbotFromScratch/issues"
+  },
+  "homepage": "https://github.com/MVytautas/ChatbotFromScratch#readme"
 }
