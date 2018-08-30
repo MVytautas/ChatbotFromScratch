@@ -10,7 +10,9 @@ You will need:
 - ngrok https://ngrok.com/download
 
 ![](http://s2.glbimg.com/nBsW9iMGHEMYJtADdQ9JdWXGP3k=/695x0/s.glbimg.com/po/tt2/f/original/2015/02/11/github-logo.jpg)
-
+<img src="http://s2.glbimg.com/nBsW9iMGHEMYJtADdQ9JdWXGP3k=/695x0/s.glbimg.com/po/tt2/f/original/2015/02/11/github-logo.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; height: 50; width:50; " />
 
 # Terminal commands : 
 - sudo npm install npm — global
