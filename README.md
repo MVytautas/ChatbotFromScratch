@@ -9,10 +9,19 @@ You will need:
 - HEROKU / HEROKU CLI Link
 - ngrok https://ngrok.com/download
 
-![](http://s2.glbimg.com/nBsW9iMGHEMYJtADdQ9JdWXGP3k=/695x0/s.glbimg.com/po/tt2/f/original/2015/02/11/github-logo.jpg)
+
 <img src="http://s2.glbimg.com/nBsW9iMGHEMYJtADdQ9JdWXGP3k=/695x0/s.glbimg.com/po/tt2/f/original/2015/02/11/github-logo.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px; height=42; width=42; " />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px; height=42; width=42; " />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0lW8JEvQaQMh8u6VyoxEKE6BfypoCxHmpJ98_DNVcF8l0Gj6"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px; height=42; width=42; " />
+<img src="https://venturebeat.com/wp-content/uploads/2015/06/visual_studio_purple.png?fit=1308%2C650&strip=all"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px; height=42; width=42; " />
 
 # Terminal commands : 
 - sudo npm install npm — global
